@@ -15,5 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "@adamdehaven/vuepress-plugin-custom-tooltip": "^1.0.0"
   }
 }
