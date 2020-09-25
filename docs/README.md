@@ -1,7 +1,4 @@
-# Hello VuePress
-
-<!-- With Props -->
-Marche pur le climat à Paris:  
+# Marche pur le climat à Paris:  
 << Chefs d'État, agissez ! >>  
 Le Monde.fr | 21.09.2014 | Audrey Garric  
 
