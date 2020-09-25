@@ -1,13 +1,11 @@
 # Hello VuePress
 
 <!-- With Props -->
-What is <VueCustomTooltip label="This is a tooltip" abbreviation >a tooltip</VueCustomTooltip>?
-
 Marche pur le climat à Paris:  
 << Chefs d'État, agissez ! >>  
 Le Monde.fr | 21.09.2014 | Audrey Garric  
 
-L'événement se tenait dans le cadre d'une marche mondiale pour le climat, autoproclamée << plus grande mobilisation citoyenne jamaiorgamisée sur l'enjeu climatique >>. Plus de 2 500 défilés étaient prévus dans 158 pays, de Melbourne à New Youk, en passant par New Delhi, Berlin, Londres et Vancouver. [...]  
+L'événement se tenait dans le cadre d'une marche mondiale pour le climat, autoproclamée << plus grande <VueCustomTooltip label="動員" abbreviation >mobilisation</VueCustomTooltip> <VueCustomTooltip label="市民" abbreviation >citoyenne</VueCustomTooltip> jamai<VueCustomTooltip label="組織化された" abbreviation >orgamisée</VueCustomTooltip> sur l'<VueCustomTooltip label="争点" abbreviation >enjeu</VueCustomTooltip> climatique >>. Plus de 2 500 défilés étaient prévus dans 158 pays, de Melbourne à New Youk, en passant par New Delhi, Berlin, Londres et Vancouver. [...]  
 
 Pour ce qu'ils considèrent comme une << première étape >>, dimanche, les marcheurs - dont une partie avait préféré le vélo - ont défilé de la place de la République jusqu'au parvis de l'Hôtel de Ville au son des tambours, percussions et autres sifflets.  
 
