@@ -15,7 +15,7 @@ Tous, surtout, notent la difficulté de mobiliser la société civile. << On est
 << Oui, il faut mobiliser la société civile et changer les mentailités >>, <VueCustomTooltip label="断言する" abbreviation >assure</VueCustomTooltip> l'ancienne ministre et <VueCustomTooltip label="代表" abbreviation >députée</VueCustomTooltip> <VueCustomTooltip label="緑の党" abbreviation >EELV</VueCustomTooltip> de Paris Cécile Duflot, << mais changer de modèle de développement est un choix <VueCustomTooltip label="著しく" abbreviation >éminemment</VueCustomTooltip> politique. >>
 
 # 3
-Agissez ! Un rassemblement a lieu dans votre ville pour défendre une cause qui vous tient à cœur ou qui vous indigne. Vous rédigez un curt texte à publier sur Internet pour se mobiliser, quels sont vos rêves pour une meilleure situation.
+Agissez ! Un <VueCustomTooltip label="集会、結集、団結、連合" abbreviation >rassemblement</VueCustomTooltip> <VueCustomTooltip label="行われる" abbreviation >a lieu</VueCustomTooltip> dans votre ville pour défendre une cause qui vous tient à cœur ou qui vous <VueCustomTooltip label="憤慨させる" abbreviation >indigne</VueCustomTooltip>. Vous rédigez un court texte à publier sur Internet pour se mobiliser, quels sont vos rêves pour une meilleure situation.
 
 # - Pétition -
 ## 1000 voix de parisiens pour des logements décents !
