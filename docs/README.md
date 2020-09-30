@@ -21,3 +21,13 @@ Agissez ! Un <VueCustomTooltip label="集会、結集、団結、連合" abbrevi
 ## 1000 voix de parisiens pour des logements décents !
 En 10 ans, le prix des logements à Paris a <VueCustomTooltip label="急増する" abbreviation >explosé</VueCustomTooltip> de 40 %. De nombreuses familles <VueCustomTooltip label="しなければならなくなった [devoir の複合過去]" abbreviation >ont dû</VueCustomTooltip> <VueCustomTooltip label="突然" abbreviation >brusquement</VueCustomTooltip> </VueCustomTooltip> <VueCustomTooltip label="離れる" abbreviation >quitter</VueCustomTooltip> leurs appartements pour <VueCustomTooltip label="引っ越す" abbreviation >déménager</VueCustomTooltip>  loin de centre ou limiter leurs <VueCustomTooltip label="出費" abbreviation >dépenses</VueCustomTooltip> de santé, d'éducation, de loisirs, pour <VueCustomTooltip label="耐える" abbreviation >supporter</VueCustomTooltip> ces <VueCustomTooltip label="値段を上げる" abbreviation >hausses de prix</VueCustomTooltip>. On assiste à une véritable crise sociale dans la capitale devenue la deuxième la plus chère du monde. Il est temps de réagir !  
 Nous, parisiens, associations, citoyens engagés... demandons aux responsables politiques de mettre en place une profonde réforme de l'<VueCustomTooltip label="不動産" abbreviation >immobilier</VueCustomTooltip>, de résister aux lois du marché et de nous assurer un droit au logement.
+
+#  Un air de révolte
+<< On cogne d'abord, on discute après. >> La réplique d'un viewx film de série B ? Non, tout simplement le mode de gestion du conflit traditionnel en France : la grève. Les formes de résistance te de protestation empruntent également des modalités d'action diverses, soit collectives (manifestations, pétitions, rassemblements...) soit puls individualisées (action juridique, absentéisme, turn-over...).
+
+# 53
+<< Nous sommes solidaires et ensemble, nous résisterons ! Nous refusons de payer plus ! >>  
+
+Un millier de personnes environ se sont retrouvées square Phillips, en plein cœur de Montréal, afin de contester les hausses de prix de 5.8 % demandées par Hydro-Québec. Dans le cortège se trouvaient les membres de près de 90 groupes issus des mouvements populaires et communautaires.  
+
+<< Y a un paradox : en ce moment, le parti québécois continue sa politique libérale en offrant aux entreprises financières et bancaires 1,2 milliard de dollars... Vous vous rendez cmpte de ce que c'est, 1,2 milliard de dollars ? C'est 1 200 millions de dollars offerts sur la taxe et le captal des entreprises... Eh bien logiguement, les gens se posent la question : pourquoi devons-nous payer à leur place ?  - Tout augmente ! Les loyers, l'électricité... C'est illégal ! Ils veulent nous tuer. >>
