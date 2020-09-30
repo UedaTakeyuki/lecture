@@ -33,14 +33,14 @@ Un millier de personnes <VueCustomTooltip label="約、およそ" abbreviation >
 << Y a un paradox : en ce moment, le parti québécois continue sa politique libérale en offrant aux entreprises financières et bancaires 1,2 milliard de dollars... Vous vous rendez compte de ce que c'est, 1,2 milliard de dollars ? C'est 1 200 millions de dollars offerts sur la taxe et le capital des entreprises... Eh bien logiquement, les gens se posent la question : pourquoi devons-nous payer à leur place ?  - Tout augmente ! Les loyers, l'électricité... C'est illégal ! Ils veulent nous tuer. >>
 
 # Disc.2
-Nous, usagers et clients de la SNCF et de la RATP, sommes excédés par les grèves à répétition que connaît le secteur ferroviaire français.  
+Nous, usagers et clients de la SNCF et de la RATP, sommes <VueCustomTooltip label="イライラした" abbreviation >excédés</VueCustomTooltip> par les <VueCustomTooltip label="ストライキ" abbreviation >grèves</VueCustomTooltip> à répétition que connaît le <VueCustomTooltip label="部門" abbreviation >secteur <VueCustomTooltip label="鉄道の" abbreviation >ferroviaire</VueCustomTooltip> français.  
 
-Nous ne remettons nullement en cause le droit de grève des agents de la SNCF et de la RATP, cepandant, nous constatons que les usagers :  
+Nous ne remettons <VueCustomTooltip label="少しも" abbreviation >nullement</VueCustomTooltip> <VueCustomTooltip label="当事者である、関わっている" abbreviation >en cause</VueCustomTooltip> le droit de grève des agents de la SNCF et de la RATP, cepandant, nous constatons que les usagers :  
 
-- ne sont pas assez pris en considération;  
-- sont pris en otage pour régler les problèmes internes;  
+- ne sont pas assez <VueCustomTooltip label="[prendre en considération]考慮に入れる、重要である、注意する" abbreviation >pris en considération</VueCustomTooltip>;  
+- sont pris en <VueCustomTooltip label="人質" abbreviation >otage</VueCustomTooltip> pour <VueCustomTooltip label="解決する" abbreviation >régler</VueCustomTooltip> les problèmes <VueCustomTooltip label="内部の" abbreviation >internes</VueCustomTooltip>;  
 - ne sont pas assez informés.  
 
-Aux syndicats, nous rappelons la mission de service du public auquel la SNCF et la RATP sont soumis. Nous demandons donc aux syndicats, à la direction et au gouvernement d'œuvrer pour le bien de la société et des usagers des transports  ferroviaires.  
+Aux <VueCustomTooltip label="労働組合" abbreviation >syndicats</VueCustomTooltip>, nous <VueCustomTooltip label="思い出させる" abbreviation >rappelons</VueCustomTooltip> la mission de service du public auquel la SNCF et la RATP sont soumis. Nous demandons donc aux syndicats, à la <VueCustomTooltip label="指導部、経営陣" abbreviation >direction</VueCustomTooltip> et au gouvernement d'<VueCustomTooltip label="尽力する" abbreviation >œuvrer</VueCustomTooltip> pour le bien de la société et des usagers des transports ferroviaires.  
 
 Merci de signer cette pétition !
