@@ -33,7 +33,7 @@ Un millier de personnes <VueCustomTooltip label="約、およそ" abbreviation >
 << Y a un paradox : en ce moment, le parti québécois continue sa politique libérale en offrant aux entreprises financières et bancaires 1,2 milliard de dollars... Vous vous rendez compte de ce que c'est, 1,2 milliard de dollars ? C'est 1 200 millions de dollars offerts sur la taxe et le capital des entreprises... Eh bien logiquement, les gens se posent la question : pourquoi devons-nous payer à leur place ?  - Tout augmente ! Les loyers, l'électricité... C'est illégal ! Ils veulent nous tuer. >>
 
 # Disc.2
-Nous, usagers et clients de la SNCF et de la RATP, sommes <VueCustomTooltip label="イライラした" abbreviation >excédés</VueCustomTooltip> par les <VueCustomTooltip label="ストライキ" abbreviation >grèves</VueCustomTooltip> à répétition que connaît le <VueCustomTooltip label="部門" abbreviation >secteur <VueCustomTooltip label="鉄道の" abbreviation >ferroviaire</VueCustomTooltip> français.  
+Nous, usagers et clients de la SNCF et de la RATP, sommes <VueCustomTooltip label="イライラした" abbreviation >excédés</VueCustomTooltip> par les <VueCustomTooltip label="ストライキ" abbreviation >grèves</VueCustomTooltip> à répétition que connaît le <VueCustomTooltip label="部門" abbreviation >secteur</VueCustomTooltip> <VueCustomTooltip label="鉄道の" abbreviation >ferroviaire</VueCustomTooltip> français.  
 
 Nous ne remettons <VueCustomTooltip label="少しも" abbreviation >nullement</VueCustomTooltip> <VueCustomTooltip label="当事者である、関わっている" abbreviation >en cause</VueCustomTooltip> le droit de grève des agents de la SNCF et de la RATP, cepandant, nous constatons que les usagers :  
 
